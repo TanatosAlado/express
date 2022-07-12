@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Latitud33",
+    "price": "1240",
+    "img": "imagenLatitud33",
+    "id": 1
+  },
+  {
+    "title": "Demencial",
+    "price": "1457",
+    "img": "imagenDemencial",
+    "id": 2
+  },
+  {
+    "title": "Trumpeter",
+    "price": "1890",
+    "img": "imagenTrumpeter",
+    "id": 3
+  }
+]
