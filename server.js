@@ -7,7 +7,7 @@ const myWine = new Contenedor("./baseProductos.json");
 
 
 const server = app.listen(port, ()=>{
-    console.log(`Server running on port: ${server.address().port}`)
+    console.log(`Servidor corriendo en puerto: ${server.address().port}`)
 })
 
 app.on('error', (err) => {
